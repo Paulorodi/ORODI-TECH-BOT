@@ -74,7 +74,7 @@ A simple WhatsApp User bot.
              DISABLE_START_MESSAGE = false
              PERSONAL_MESSAGE = null" > config.env
 
-    - [Read More](https://github.com/lyfe00011/whatsapp-bot-md/wiki/Environment_Variables)
+    - [Read More](https://github.com/lyfe00011/whatsapp-bot-md)
 
     - Edit the `config.env` using nano if needed. To save, press `Ctrl + O`, then press `Enter`, and to exit, press `Ctrl + X`.
 
@@ -84,5 +84,5 @@ A simple WhatsApp User bot.
 
 ### Thanks To
 
-- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
-- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
+- [Paul Orodi](https://www.facebook.com/paulorodii) for [Whats Bot](https://github.com/lyfe00011/whatsapp-bot-md)
+
